@@ -202,3 +202,7 @@ span {
 	display: inline;
 	margin: 0;
 }
+
+.timeStamper-img {
+	border-radius: 50%;
+}
